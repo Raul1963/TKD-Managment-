@@ -4,10 +4,10 @@ import org.example.tkdmng.Exceptions.BusinessLogicException;
 import org.example.tkdmng.Exceptions.DatabaseException;
 import org.example.tkdmng.Exceptions.EntityNotFoundException;
 import org.example.tkdmng.Model.*;
-import org.example.Repository.DatabaseRepo;
+import org.example.tkdmng.Repository.DatabaseRepo;
 import org.example.tkdmng.Repository.IRepo;
-import org.example.Repository.InMemoryRepo;
-import org.example.Repository.InMemoryRepo;
+import org.example.tkdmng.Repository.InMemoryRepo;
+import org.example.tkdmng.Repository.InMemoryRepo;
 
 import javax.xml.crypto.Data;
 import java.io.IOException;

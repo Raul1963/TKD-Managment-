@@ -1,6 +1,6 @@
 package org.example.tkdmng.Repository;
 
-import org.example.Exceptions.DatabaseException;
+import org.example.tkdmng.Exceptions.DatabaseException;
 import org.example.tkdmng.Model.DifficultyLevel;
 import org.example.tkdmng.Model.Session;
 import org.example.tkdmng.Model.TrainingCamp;

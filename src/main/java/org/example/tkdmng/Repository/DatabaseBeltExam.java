@@ -1,6 +1,6 @@
 package org.example.tkdmng.Repository;
 
-import org.example.Exceptions.DatabaseException;
+import org.example.tkdmng.Exceptions.DatabaseException;
 import org.example.tkdmng.Model.BeltExam;
 import org.example.tkdmng.Model.BeltLevel;
 import org.example.tkdmng.Model.Student;
