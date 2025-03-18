@@ -1,4 +1,4 @@
-package org.example.Exceptions;
+package org.example.tkdmng.Exceptions;
 
 public class ValidationException extends Exception {
     public ValidationException(String message) {

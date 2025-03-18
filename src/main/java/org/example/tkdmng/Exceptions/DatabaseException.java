@@ -1,4 +1,4 @@
-package org.example.Exceptions;
+package org.example.tkdmng.Exceptions;
 
 public class DatabaseException extends Exception {
     public DatabaseException(String message) {

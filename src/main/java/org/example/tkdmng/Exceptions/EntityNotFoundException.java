@@ -1,4 +1,4 @@
-package org.example.Exceptions;
+package org.example.tkdmng.Exceptions;
 
 public class EntityNotFoundException extends Exception {
     public EntityNotFoundException(String message) {

@@ -1,11 +1,11 @@
-package org.example.Controller;
+package org.example.tkdmng.Controller;
 
-import org.example.Exceptions.BusinessLogicException;
-import org.example.Exceptions.DatabaseException;
-import org.example.Exceptions.EntityNotFoundException;
-import org.example.Model.*;
-import org.example.Repository.IRepo;
-import org.example.Service.TKD_Service;
+import org.example.tkdmng.Exceptions.BusinessLogicException;
+import org.example.tkdmng.Exceptions.DatabaseException;
+import org.example.tkdmng.Exceptions.EntityNotFoundException;
+import org.example.tkdmng.Model.*;
+import org.example.tkdmng.Repository.IRepo;
+import org.example.tkdmng.Service.TKD_Service;
 
 import java.io.IOException;
 import java.sql.SQLException;

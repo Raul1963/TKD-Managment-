@@ -1,7 +1,7 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
-import org.example.Exceptions.DatabaseException;
-import org.example.Model.HasID;
+import org.example.tkdmng.Exceptions.DatabaseException;
+import org.example.tkdmng.Model.HasID;
 
 import java.sql.SQLException;
 import java.util.List;

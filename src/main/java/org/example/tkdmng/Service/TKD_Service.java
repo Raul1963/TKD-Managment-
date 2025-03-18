@@ -1,11 +1,11 @@
-package org.example.Service;
+package org.example.tkdmng.Service;
 
-import org.example.Exceptions.BusinessLogicException;
-import org.example.Exceptions.DatabaseException;
-import org.example.Exceptions.EntityNotFoundException;
-import org.example.Model.*;
+import org.example.tkdmng.Exceptions.BusinessLogicException;
+import org.example.tkdmng.Exceptions.DatabaseException;
+import org.example.tkdmng.Exceptions.EntityNotFoundException;
+import org.example.tkdmng.Model.*;
 import org.example.Repository.DatabaseRepo;
-import org.example.Repository.IRepo;
+import org.example.tkdmng.Repository.IRepo;
 import org.example.Repository.InMemoryRepo;
 import org.example.Repository.InMemoryRepo;
 
