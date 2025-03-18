@@ -1,9 +1,9 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.BeltExam;
-import org.example.Model.BeltLevel;
-import org.example.Model.Student;
+import org.example.tkdmng.Model.BeltExam;
+import org.example.tkdmng.Model.BeltLevel;
+import org.example.tkdmng.Model.Student;
 
 import java.sql.Date;
 import java.sql.PreparedStatement;

@@ -1,6 +1,6 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
-import org.example.Model.*;
+import org.example.tkdmng.Model.*;
 import java.io.*;
 import java.util.HashMap;
 import java.util.List;

@@ -1,7 +1,7 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.HasID;
+import org.example.tkdmng.Model.HasID;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

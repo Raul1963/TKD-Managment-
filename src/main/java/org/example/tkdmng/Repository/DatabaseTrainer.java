@@ -1,9 +1,9 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.BeltLevel;
-import org.example.Model.Contest;
-import org.example.Model.Trainer;
+import org.example.tkdmng.Model.BeltLevel;
+import org.example.tkdmng.Model.Contest;
+import org.example.tkdmng.Model.Trainer;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * A repository implementation for managing `Trainer` entities in the database.
  */
-public class DatabaseTrainer extends DatabaseRepo<org.example.Model.Trainer>{
+public class DatabaseTrainer extends DatabaseRepo<Trainer>{
 
     /**
      * Constructs a new `DatabaseTrainer` with the specified database URL.

@@ -1,9 +1,9 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.BeltLevel;
-import org.example.Model.SessionDate;
-import org.example.Model.Student;
+import org.example.tkdmng.Model.BeltLevel;
+import org.example.tkdmng.Model.SessionDate;
+import org.example.tkdmng.Model.Student;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ import java.util.List;
  * A repository implementation that interacts with the database to manage Student entities.
  */
 
-public class DatabaseStudent extends DatabaseRepo<org.example.Model.Student> {
+public class DatabaseStudent extends DatabaseRepo<Student> {
     /**
      * Constructs a new DatabaseStudent with the specified database URL.
      * @param dbUrl

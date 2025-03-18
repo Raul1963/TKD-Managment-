@@ -1,9 +1,9 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.DifficultyLevel;
-import org.example.Model.Session;
-import org.example.Model.TrainingCamp;
+import org.example.tkdmng.Model.DifficultyLevel;
+import org.example.tkdmng.Model.Session;
+import org.example.tkdmng.Model.TrainingCamp;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

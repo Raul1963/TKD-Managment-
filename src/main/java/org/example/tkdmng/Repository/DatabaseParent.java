@@ -1,6 +1,6 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.Parent;
+import org.example.tkdmng.Model.Parent;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * A repository implementation that interacts with the database to manage parent entities.
  */
-public class DatabaseParent extends DatabaseRepo<org.example.Model.Parent>{
+public class DatabaseParent extends DatabaseRepo<Parent>{
 
     /**
      * Constructs a new DatabaseParent with the specified database URL.

@@ -1,8 +1,8 @@
-package org.example.Repository;
+package org.example.tkdmng.Repository;
 
 import org.example.Exceptions.DatabaseException;
-import org.example.Model.Contest;
-import org.example.Model.Student;
+import org.example.tkdmng.Model.Contest;
+import org.example.tkdmng.Model.Student;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * A repository implementation that interacts with the database to manage contest entities.
  */
-public class DatabaseContest extends DatabaseRepo<org.example.Model.Contest>{
+public class DatabaseContest extends DatabaseRepo<Contest>{
     /**
      * Constructs a new DatabaseContest with the specified database URL.
      *
