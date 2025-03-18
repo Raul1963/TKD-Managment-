@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 
 /**
  * An abstract class that represents an event in the TKD management system

@@ -1,11 +1,11 @@
-package org.example.Ui;
+package org.example.tkdmng.Ui;
 
 import org.example.Controller.TKDController;
 import org.example.Exceptions.DatabaseException;
 import org.example.Exceptions.EntityNotFoundException;
 import org.example.Exceptions.ValidationException;
-import org.example.Model.*;
-import org.example.Repository.*;
+import org.example.tkdmng.Model.*;
+import org.example.tkdmng.Repository.*;
 import org.example.Service.TKD_Service;
 
 import java.io.IOException;

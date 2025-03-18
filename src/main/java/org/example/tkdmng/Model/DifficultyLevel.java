@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 
 /**
  * An enum class which contains the various difficulty levels of a session.

@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 
 /**
  * A functional interface that represents an object with a unique identifier.
