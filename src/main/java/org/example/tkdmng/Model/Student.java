@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 
 import java.util.ArrayList;
 import java.util.Arrays;

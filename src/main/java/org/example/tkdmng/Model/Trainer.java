@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 //import com.fasterxml.jackson.annotation.JsonCreator;
 //import com.fasterxml.jackson.annotation.JsonProperty;
 

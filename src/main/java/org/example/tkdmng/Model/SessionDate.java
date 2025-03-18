@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 
 import java.io.Serializable;
 import java.util.List;

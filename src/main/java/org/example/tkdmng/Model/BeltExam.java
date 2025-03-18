@@ -1,5 +1,4 @@
 package org.example.tkdmng.Model;
-im
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.tkdmng.Model;
 
 /**
  * An abstract class that represents a person in the TKD management system
