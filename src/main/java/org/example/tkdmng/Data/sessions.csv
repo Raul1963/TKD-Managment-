@@ -1,0 +1,4 @@
+id,difficultyLevel,maximumParticipants,trainer,pricePerSession,sessionStudents
+1,beginner,23,1,50.0,1;6;9
+2,intermediary,20,2,75.0,2;3;7;10
+3,advanced,15,3,100.0,4;5;8;11

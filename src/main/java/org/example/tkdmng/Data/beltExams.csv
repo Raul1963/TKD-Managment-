@@ -1,0 +1,4 @@
+id,startDate,endDate,price,country,city,address,beltColor,listOfResults
+1,2025-05-05,2025-05-06,150.0,Romania,Cluj-Napoca,Sala Sporturilor,yellow,1:1;2:-1
+2,2025-06-10,2025-06-11,200.0,Romania,Bucuresti,Sala Polivalenta,green,
+3,2025-07-15,2025-07-16,250.0,Romania,Timisoara,Centrul Sportiv,blue,

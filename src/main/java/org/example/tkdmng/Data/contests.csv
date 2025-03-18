@@ -1,0 +1,5 @@
+id,startDate,endDate,price,country,city,name,address,students
+101,2024-11-28,2024-11-30,300.0,Romania,Cluj-Napoca,Campionatul International,Sala Sporturilor,1
+102,2024-12-05,2024-12-07,250.0,Romania,Bucuresti,Campionatul National,Sala Polivalenta,
+103,2025-01-12,2025-01-15,350.0,Romania,Timisoara,Open-ul Romaniei,Sala Olimpia,
+104,2025-02-20,2025-02-22,400.0,Romania,Iasi,Cupa Moldovei,Sala Sporturilor,

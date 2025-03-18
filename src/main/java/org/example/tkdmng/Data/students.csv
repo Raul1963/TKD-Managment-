@@ -1,0 +1,12 @@
+id,name,lastName,email,address,dateOfBirth,number,beltLevel,session,parent,contestList,trainingCampList,sessionDateList
+1,Muresan,Alex,alex@gmail.com,Calea Baciului nr 5,2010,0754635543,yellow,1,1,101,,monday:2024-11-11:1:true;wednesday:2024-11-13:1:true;friday:2024-11-15:1:true
+2,Pop,Ana,ana.pop@gmail.com,Strada Republicii nr 12,2012,0751234567,yellow,2,2,,,friday:2024-11-15:2:true;monday:2024-11-18:2:true
+3,Pop,Mihai,mihai.pop@gmail.com,Strada Republicii nr 12,2014,0757654321,yellow,2,2,,,friday:2024-11-15:2:true
+4,Dobre,Florin,florin.dobre@yahoo.com,Strada Zorilor nr 14,2011,0744112233,orange,3,3,,,friday:2024-10-15:2:true;monday:2024-11-18:2:true
+5,Dobre,Ioana,ioana.dobre@yahoo.com,Strada Zorilor nr 14,2013,0744556677,orange,3,3,,,friday:2024-11-15:2:true;wednesday:2024-11-20:2:false
+6,Matei,Vlad,vlad.matei@yahoo.com,Strada Garii nr 6,2012,0721122334,green,1,4,,,friday:2024-10-15:1:true;monday:2024-10-18:1:false;monday:2024-11-18:1:true
+7,Ionescu,Irina,irina.ionescu@gmail.com,Strada Ciresilor nr 10,2010,0765123789,blue,2,5,,,friday:2024-11-14:2:true
+8,Radu,Andrei,andrei.radu@gmail.com,Strada Independentei nr 20,2011,0767894561,green,3,6,,,wednesday:2024-11-20:3:false
+9,Vasilescu,Elena,elena.vasilescu@gmail.com,Strada Libertatii nr 5,2013,0734123890,green,1,4,,,friday:2024-10-15:1:true;monday:2024-10-18:1:false
+10,Marin,Paul,paul.marin@gmail.com,Strada Primaverii nr 9,2012,0712123890,white,2,5,,,monday:2024-10-18:2:true
+11,Popa,Diana,diana.popa@yahoo.com,Strada Viitorului nr 2,2011,0785123890,blue,3,6,,,friday:2024-11-15:3:true;wednesday:2024-11-20:3:false

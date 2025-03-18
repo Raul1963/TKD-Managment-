@@ -1,0 +1,5 @@
+id,name,lastName,email,address,dateOfBirth,number,beltLevel
+1,Mitroi,Stefan,srefanmitroi@gmail.com,Calea Floresti nr 58B,2004,0761969675,black
+2,Popescu,Andrei,andrei.popescu@gmail.com,Strada Mihai Viteazu nr 15,1990,0755123456,red
+3,Ionescu,Maria,maria.ionescu@yahoo.com,Bulevardul Eroilor nr 45,1985,0725987654,blue
+4,Vasilescu,Radu,radu.vasilescu@outlook.com,Strada Zorilor nr 23,1992,0744123456,green

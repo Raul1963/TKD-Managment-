@@ -1,0 +1,4 @@
+id,startDate,endDate,price,country,city,address,numberOfParticipants,students
+11,2025-06-15,2025-06-20,500.0,Romania,Brasov,Complexul Olimpic,25,
+12,2025-07-01,2025-07-07,650.0,Romania,Sibiu,Sala Transilvania,30,
+13,2025-08-10,2025-08-15,550.0,Romania,Constanta,Sala Sporturilor,20,

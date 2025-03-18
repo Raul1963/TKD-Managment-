@@ -1,0 +1,7 @@
+id,name,lastName,email,address,number,children
+1,Muresan,Victor,muresanVictor@gmail.com,Calea Baciului nr 5,0783243165,1
+2,Pop,Cristina,cristina.pop@gmail.com,Strada Republicii nr 12,0755555555,2;3
+3,Dobre,Ion,ion.dobre@yahoo.com,Strada Zorilor nr 14,0744123123,4;5
+4,Matei,Ioana,ioana.matei@outlook.com,Strada Garii nr 6,0724123987,6;9
+5,Ionescu,Daniel,daniel.ionescu@gmail.com,Strada Ciresilor nr 10,0762123890,7;10
+6,Radu,Marius,marius.radu@gmail.com,Strada Independentei nr 20,0767891234,8;11
